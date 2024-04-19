@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb426aae-0adb-436b-959f-6915f0be7c81" name="Changes" comment="Base GBT">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +132,7 @@
       <workItem from="1706732728958" duration="601000" />
       <workItem from="1707404152196" duration="107000" />
       <workItem from="1707404328791" duration="4286000" />
-      <workItem from="1713539115826" duration="1584000" />
+      <workItem from="1713539115826" duration="2187000" />
     </task>
     <task id="LOCAL-00001" summary="Procfile">
       <option name="closed" value="true" />

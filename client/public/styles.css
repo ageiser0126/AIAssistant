@@ -204,26 +204,21 @@ body {
     overflow-y:auto;
 
 }
-
 .chat-logs::-webkit-scrollbar-track
 {
     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
     background-color: #F5F5F5;
 }
-
 .chat-logs::-webkit-scrollbar
 {
     width: 5px;
     background-color: #F5F5F5;
 }
-
 .chat-logs::-webkit-scrollbar-thumb
 {
     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
     background-color: #F5F5F5;
 }
-
-
 
 @media only screen and (max-width: 500px) {
     .chat-logs {
@@ -276,7 +271,6 @@ body {
     background: #0f99d6;
     color:white;
 }
-
 .cm-msg-text p{
     margin: 0;
 }
